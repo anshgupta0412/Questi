@@ -1,0 +1,64 @@
+CODING–DECODING: 10 QUESTIONS WITH SOLUTIONS
+
+Q1. Letter shifting (+1) If CAT is coded as DBU, how will DOG be coded?
+
+Solution: Each letter is moved one step forward in the alphabet. D -> E,
+O -> P, G -> H Answer: EPH
+
+Q2. Letter shifting (+2) If BALL is coded as DCNN, how will FISH be
+coded?
+
+Solution: Each letter is moved two steps forward. F -> H, I -> K, S ->
+U, H -> J Answer: HKUJ
+
+Q3. Reverse the word If GARDEN is coded as NEDRAG, how will FLOWER be
+coded?
+
+Solution: The letters are written in reverse order. FLOWER -> REWOLF
+Answer: REWOLF
+
+Q4. Reverse, then shift each letter (+1) If CAT is coded as UBD, how
+will DOG be coded?
+
+Solution: First reverse the word: DOG -> GOD Then move each letter one
+step forward: G -> H, O -> P, D -> E Answer: HPE
+
+Q5. Reverse, then shift each letter (+1) If PEN is coded as OFQ, how
+will BAT be coded?
+
+Solution: First reverse the word: BAT -> TAB Then move each letter one
+step forward: T -> U, A -> B, B -> C Answer: UBC
+
+Q6. Opposite letters (A<->Z, B<->Y, C<->X…) If BAD is coded as YZW, how
+will CAT be coded?
+
+Solution: Replace each letter with its opposite in the alphabet. C -> X,
+A -> Z, T -> G Answer: XZG
+
+Q7. Letter shifting (-1) If LION is coded as KHNM, how will BEAR be
+coded?
+
+Solution: Each letter is moved one step backward. B -> A, E -> D, A ->
+Z, R -> Q Answer: ADZQ
+
+Q8. Alphabet position numbers If ACE is coded as 1-3-5, how will DOG be
+coded?
+
+Solution: Write each letter’s position in the alphabet. D = 4, O = 15, G
+= 7 Answer: 4-15-7
+
+Q9. Increasing letter shifts (+1, +2, +3, …) If ABCD is coded as BDFH,
+how will WXYZ be coded?
+
+Solution: The first letter moves +1, the second +2, the third +3, and
+the fourth +4. W -> X (+1) X -> Z (+2) Y -> B (+3, after Z the alphabet
+starts again) Z -> D (+4, after Z the alphabet starts again) Answer:
+XZBD
+
+Q10. Swap letters in pairs If TABLE is coded as ATBEL (pairwise
+swapping), how will CHAIR be coded?
+
+Solution: Swap every adjacent pair of letters. If one letter remains at
+the end, keep it unchanged. TABLE -> ATBEL CHAIR -> HCIAR. Let’s apply
+carefully: CH -> HC AI -> IA R stays R Answer: HCIAR
+
